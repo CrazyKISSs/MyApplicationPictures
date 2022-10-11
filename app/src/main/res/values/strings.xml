@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application Pictures</string>
+    <string name="choice_level">Выбери уровень</string>
 </resources>
